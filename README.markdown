@@ -1,4 +1,4 @@
-﻿# Git Basics Cheatsheet
+﻿﻿# Git Basics Cheatsheet
 
 This cheatsheet is a list of our most used Git commands and useful information for those who are getting started.
 
@@ -89,6 +89,7 @@ This cheatsheet is a list of our most used Git commands and useful information f
 | git show [commit]        | Outputs metadata and content changes of the specified commit     |
 | git blame [file]         | Shows who changed what and when in file                          |
 
+
 ### THE .gitignore FILE
 
 You can list files/directories that you want to explicitely exclude from Git in a `.gitignore` file. This file should be placed at the root of your repository.
@@ -110,26 +111,6 @@ dist/
 ```
 
 See [more examples](https://github.com/github/gitignore)
-
-### PLATFORMS
-
-The following platforms can be used to host your Git repositories.
-
-| NAME                               | PRICE |
-| ---------------------------------- | ----- |
-| [Github](https://github.com)       | Free  |
-| [Gitlab](https://gitlab.com)       | Free  |
-| [Bitbucket](https://bitbucket.org) | Free  |
-
-### GRAPHICAL USER INTERFACE (GUI) CLIENTS
-
-Is the command-line not for you? Try one of the following GUIs.
-
-| NAME                                         | OS                | PRICE           |
-| -------------------------------------------- | ----------------- | --------------- |
-| [Github](https://desktop.github.com)         | Mac and Windows   | Free            |
-| [Source Tree](https://www.sourcetreeapp.com) | Mac and Windows   | Free            |
-| [Tower](https://www.git-tower.com)           | MacOS and Windows | 59 USD per year |
 
 ### RESOURCES
 
